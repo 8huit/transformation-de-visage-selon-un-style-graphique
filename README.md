@@ -9,8 +9,8 @@ L'objectif du projet est de proposer une méthode de transformation GAN qui perm
 Le projet présente l'implémentation d'un méthode présentée dans un article scientifique.
 
 ## Contenu
-├── P08_01_Developpez_une_preuve_de_concept-stylizeGUAN.ipynb
-├── P08_02_Developpez_une_preuve_de_concept.pdf
-└── README.md     
+├── P08_01_Developpez_une_preuve_de_concept-stylizeGUAN.ipynb  
+├── P08_02_Developpez_une_preuve_de_concept.pdf  
+└── README.md   
 
 Le notebook a été fait à partir du travail réalisé par Min Jin Chong sur le jojoGAN: https://github.com/mchong6/JoJoGAN
